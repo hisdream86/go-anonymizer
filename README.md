@@ -1,5 +1,5 @@
 # Go Anonymizer
-Simple anonymization tool for de-identifying your structurized data. You can easily anonymize your data with *Struct Tags* in go (`anonymize:"{replacer}"`).
+Simple anonymization tool for de-identifying your structurized data. You can easily anonymize your data with *Struct Tag* `anonymize:"{replacer}"`.
 
 *Note: only string values are supported*
 
