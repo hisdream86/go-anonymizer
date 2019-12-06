@@ -6,7 +6,7 @@ Simple anonymization tool for de-identifying your structurized data. You can eas
 # Installation
     $ go get github.com/hisdream86/go-anonymizer
 
-# How to Use
+# Example
 ```go
 package main
 
@@ -83,5 +83,3 @@ Replace your data with empty string.
 
 ## Custom Replacers
 If you want to use your custom replacer, you can use `AddCustomReplacer()` and `RemoveCustomReplacer()`.
-
-# License
