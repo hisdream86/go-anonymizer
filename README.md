@@ -69,7 +69,7 @@ func main() {
 # Replacers
 
 ## Default Replacers
-Go Anonymizer provide following default replacers.
+Go Anonymizer provides following default replacers.
 
 ### asterisk
 Replace your data with multiple asterisks `*`. The number of asterisk character is same with your string's length.
